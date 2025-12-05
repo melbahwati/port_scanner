@@ -12,9 +12,7 @@ Only scan hosts you own or have explicit permission to test.
 - Graceful Ctrl+C cancellation
 - Service hints for common ports
 
-## Usage
-
-### Help
+### help/commands
 ```bash
 cargo run -- --help
 
