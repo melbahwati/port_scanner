@@ -1,0 +1,10 @@
+[package]
+name = "port_scanner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+rayon = "1"
+anyhow = "1"
+ctrlc = "3"

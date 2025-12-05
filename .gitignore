@@ -1,0 +1,9 @@
+# rust / cargo
+/target/
+**/*.rs.bk
+
+# os/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
